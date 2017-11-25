@@ -1,0 +1,6 @@
+.DS_Store
+
+notebook/.ipynb_checkpoints/*
+
+data/*
+!data/.gitkeep
